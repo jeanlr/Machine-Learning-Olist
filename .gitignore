@@ -1,0 +1,7 @@
+.env
+airflow
+.venv
+.ipynb_checkpoints
+spark-warehouse
+__pycache__
+*.pyc
