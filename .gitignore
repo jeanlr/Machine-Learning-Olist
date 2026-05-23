@@ -1,7 +1,11 @@
 .env
-airflow
+#airflow
+logs
+plugins
 .venv
 .ipynb_checkpoints
 spark-warehouse
 __pycache__
 *.pyc
+dbt
+jupyter/airflow
